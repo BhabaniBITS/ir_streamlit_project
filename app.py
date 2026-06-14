@@ -1,6 +1,6 @@
 # ----------------------------------------------------------
 # BITS Pilani - Information Retrieval - Assignment 1
-# Student ID Group Ref: 2025aa05967,2025aa05953,2025aa05964 (Group 72)
+# Student ID Group Ref: 2025aa05967,2025aa05953,2025aa05964(Group 72)
 # ----------------------------------------------------------
 
 
@@ -25,7 +25,7 @@ nltk.download('wordnet')
 
 st.set_page_config(page_title="Information Retrieval System", layout="wide")
 
-st.title("Information Retrieval System using Streamlit")
+st.title("Information Retrieval System using Streamlit by Group 72")
 
 # -----------------------------
 # BST IMPLEMENTATION
